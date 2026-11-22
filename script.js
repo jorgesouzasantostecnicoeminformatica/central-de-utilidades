@@ -159,4 +159,3 @@ function iniciarCentral() {
     } while (opcao !== "0");
 }
 
-iniciarCentral();
